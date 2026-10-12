@@ -1,0 +1,3 @@
+El principal problema que busca resolver mi programa Medicitas es la dificultad que hay para organizar y gestionar las citas de los doctores de una manera muy eficiente. Cuando la informaciónes se hacen de una manera manual o de forma desorganizada, pueden producirse muchos errores en los horarios, pérdida de informaciónes y duplicación de las citas.   
+
+Mi programa Medicitas busca areglar esta situación mediante un sistema web que permita registrar, consultar y organizar las citas médicas y la información relacionada con ellas. Con el programa haciendo esto se va a ir la desorganización y tambien le va a facilitar el trabajo a las secretarias de los doctores. 
